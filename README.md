@@ -1,3 +1,4 @@
+
 [![Build Status](https://travis-ci.org/fdvjunger/treinamentos.spring.api.svg?branch=master)](https://travis-ci.org/fdvjunger/treinamentos.spring.api)
 
 # Ponto Inteligente API 
